@@ -7,6 +7,8 @@
   Gatsby minimal starter
 </h1>
 
+This repo was forked from https://github.com/gatsbyjs/tutorial-example
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -46,6 +48,8 @@
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+
+    - [Обучающий курс на русском "Разработка и публикация сайтов с Gatsby"](https://vk.cc/cbNnfa)
 
 ## 🚀 Quick start (Gatsby Cloud)
 
